@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haswanthkurevella" alt="haswanthkurevella" /></a> </p>
 
-- 🔭 I’m currently working on [Toastmasters Time keeper](https://github.com/HaswanthKurevella/Toastmasters-timekeeper)
+- 🔭 I’m currently working on [Nand2Tetris](https://github.com/HaswanthKurevella/Nand-2-Tetris)
 
-- 🌱 I’m currently learning **Mongo,Express,React,Node,Python**
+- 🌱 I’m currently learning **low-level Design and DSA**
 
 - 💬 Ask me about **React,Python**
 
 - 📫 How to reach me **haswanthkurevella1@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YfZ7U4t1T7bR0bb_3HAe5JAEZehKYmD3/view](https://drive.google.com/file/d/1YfZ7U4t1T7bR0bb_3HAe5JAEZehKYmD3/view)
 
 - ⚡ Fun fact **I think i am funny**
 
